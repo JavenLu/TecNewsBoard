@@ -2,6 +2,8 @@
 
 2.[Android动态加载基础 ClassLoader工作机制](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/1130/3730.html)?
 
+3.[ 关于进程保活你所需要知道的一切](https://www.jianshu.com/p/63aafe3c12af)?
+
 
 
 
