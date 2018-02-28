@@ -6,6 +6,8 @@
 
 4.[Android Low Memory Killer](http://www.cnblogs.com/angeldevil/archive/2013/05/21/3090872.html).
 
+5.[BIO与NIO、AIO的区别](http://blog.csdn.net/skiof007/article/details/52873421).
+
 
 
 
