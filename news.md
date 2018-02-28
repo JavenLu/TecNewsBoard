@@ -4,6 +4,8 @@
 
 3.[ 关于进程保活你所需要知道的一切](https://www.jianshu.com/p/63aafe3c12af)?
 
+4.[Android Low Memory Killer](http://www.cnblogs.com/angeldevil/archive/2013/05/21/3090872.html)?
+
 
 
 
