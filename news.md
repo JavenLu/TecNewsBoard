@@ -8,6 +8,8 @@
 
 5.[BIO与NIO、AIO的区别](http://blog.csdn.net/skiof007/article/details/52873421).
 
+6.[Android进阶之自定义注解](https://www.jianshu.com/p/a13c6326671d).
+
 
 
 
