@@ -10,6 +10,8 @@
 
 6.[Android进阶之自定义注解](https://www.jianshu.com/p/a13c6326671d).
 
+7.[Android中使用AbstractProcessor在编译时生成代码](http://blog.csdn.net/industriously/article/details/53932425).
+
 
 
 
