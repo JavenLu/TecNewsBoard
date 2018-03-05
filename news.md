@@ -12,6 +12,8 @@
 
 7.[Android中使用AbstractProcessor在编译时生成代码](http://blog.csdn.net/industriously/article/details/53932425).
 
+8.[详解Java反射各种应用](http://www.cnblogs.com/qifengshi/p/6267511.html).
+
 
 
 
